@@ -1,0 +1,11 @@
+.navbar-default {
+    background-color: #a5af2d
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    background-color: #a5af2d;
+}
+.text {
+    font-size: 18
+    font-family: serif;
+}
